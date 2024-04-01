@@ -2,7 +2,7 @@
 	"data":{
     		"name_application":"main_vclive_shopee",
     		"name_author":"tranthanhgiau",
-		"status":true,
+		"status":false,
     		"message":"Success",
 		"key":{
 			"uid":"511287050",
